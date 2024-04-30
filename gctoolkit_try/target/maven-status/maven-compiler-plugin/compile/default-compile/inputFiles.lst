@@ -1,0 +1,13 @@
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/PauseTimeSummary.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/PauseTimeAggregator.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/HeapOccupancyAfterCollectionSummary.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/CollectionCycleCountsSummary.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/HeapOccupancyAfterCollectionAggregation.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/Main.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/collections/XYDataSet.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/PauseTimeAggregation.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/CollectionCycleCountsAggregation.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/HeapOccupancyAfterCollection.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/module-info.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/DataPrinter.java
+/Users/alinahovakimyan/git/gctoolkit_try/src/main/java/org/example/aggregation/CollectionCycleCountsAggregator.java

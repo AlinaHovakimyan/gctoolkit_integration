@@ -1,0 +1,15 @@
+org/example/Main.class
+org/example/aggregation/HeapOccupancyAfterCollection.class
+org/example/collections/XYDataSet$Point.class
+org/example/Main$1.class
+org/example/collections/XYDataSet.class
+org/example/aggregation/CollectionCycleCountsSummary.class
+org/example/aggregation/PauseTimeAggregation.class
+org/example/aggregation/PauseTimeSummary.class
+org/example/aggregation/HeapOccupancyAfterCollectionSummary.class
+org/example/aggregation/CollectionCycleCountsAggregator.class
+module-info.class
+org/example/aggregation/CollectionCycleCountsAggregation.class
+org/example/aggregation/HeapOccupancyAfterCollectionAggregation.class
+org/example/DataPrinter.class
+org/example/aggregation/PauseTimeAggregator.class
